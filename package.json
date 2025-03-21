@@ -1,0 +1,7 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "canvg": "^4.0.0",
+    "save-svg-as-png": "1.4.17"
+  }
+}
